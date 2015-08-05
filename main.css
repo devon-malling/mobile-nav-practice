@@ -1,0 +1,26 @@
+body {
+	/*display: inline;*/
+}
+p {
+	/*width:10px;*/
+	float: left;
+}
+/*.mobile-nav  {
+	width:10px;
+}*/
+.hamburger-icon {
+	float:left;
+}
+.hamburger-icon div {
+	width:330px;
+	height: 40px;
+	background: #bacac0;
+	border: 1px solid black;
+	/*position::; absolute;*/
+}
+.practice {
+	width:200px;
+	height:20px;
+	background-color: blue;
+	float: left;
+}
